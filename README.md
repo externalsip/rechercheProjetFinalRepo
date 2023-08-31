@@ -9,7 +9,7 @@ La reactable est un instrument de musique très particulier, il consiste d'une t
 
 ### Technologie
 
-Détection de paterns sur objets.
+Détection et suivi sur des références présentes sur des objets.
 
 ### Intéractivité
 
