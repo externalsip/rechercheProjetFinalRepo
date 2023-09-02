@@ -35,3 +35,5 @@ Pour fonctionner, la reactable utilise un logiciel libre de droit s'appelant rea
 
 reacTIVision est entièrement compatible avec max, ce qui veux dire que la détection de fiducials pourrait être présente dans quelquonque projet utilisant des caméras ainsi que max, je n'ai pas testé les limites du logiciel, mais il devrait être capable de détecter les fiducials si ils sont présent devant la caméra, il faudrait simplement calibrer le logiciel afin qu'il puisse calculer correctement ses distances, comme il est originalement fait pour être utilisé avec une caméra sous une table, il risque par contre d'avoir des problèmes si on lui dit de scanner une salle, car il va tenter de trouver les fiducials à une certaine distance uniquemenet. 
 
+[![Demo](./media/Reactable_Multitouch.jpg)](./media/reacTIVisionDemo.mp4)
+
