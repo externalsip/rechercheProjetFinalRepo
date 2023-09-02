@@ -26,3 +26,12 @@ D'après Lora il serait possible de faire un jeu avec unity qui se contrôle en 
 " target="_blank"><img src="http://img.youtube.com/vi/0h-RhyopUmc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" /></a>
 ###### Reactable legacy sur youtube, https://www.youtube.com/@reactable
+
+## Programme derrière la reactable
+
+Pour fonctionner, la reactable utilise un logiciel libre de droit s'appelant reacTIVision, ce programme identifie des fiducials ainsi que les doigts, ce que est pourquoi la reactable détecte les commandes de l'intéracteur sur la table et fait un lien avec ce que le projecteur affiche.
+
+### Compatibilité
+
+reacTIVision est entièrement compatible avec max, ce qui veux dire que la détection de fiducials pourrait être présente dans quelquonque projet utilisant des caméras ainsi que max, je n'ai pas testé les limites du logiciel, mais il devrait être capable de détecter les fiducials si ils sont présent devant la caméra, il faudrait simplement calibrer le logiciel afin qu'il puisse calculer correctement ses distances, comme il est originalement fait pour être utilisé avec une caméra sous une table, il risque par contre d'avoir des problèmes si on lui dit de scanner une salle, car il va tenter de trouver les fiducials à une certaine distance uniquemenet. 
+
