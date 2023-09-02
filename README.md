@@ -37,4 +37,4 @@ reacTIVision est entièrement compatible avec max, ce qui veux dire que la déte
 
 Pour installer le logiciel, simplement aller sur [ce site](https://reactivision.sourceforge.net)
 
-![Image Reactable](./media/patcher_detection.png)
+![Image Patcher](./media/patcher_detection.png)
