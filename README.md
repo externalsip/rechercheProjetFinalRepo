@@ -67,3 +67,4 @@ Lorsque personne n'est dans la salle, tout les projecteurs seronts éteints
 
 ![Projet absence](./media/projet_absence.png)
 ###### Absence d'intéracteurs
+La reactable sera le lien entre l'intéracteur et le projet, elle n'est pas utilisée exactement comme elle est pensée, mais comme on peut communiquer directement avec max, on peut faire tout ce qu'on veux avec. 
