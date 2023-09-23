@@ -48,6 +48,8 @@ La détection de fiducials pourraient être un chemin intéressant à prendre po
 
 Pour le plateau de la reactable, on prévois utiliser deux couches d'acrylique avec du papier calque entre les deux, cela permetterai à la lumière de passer, tout affichant ce qui est voulu sur la table. Pour la table elle-même, elle pourrait être sois en métal ou en bois.
 
+![Concept reactable](./media/table_concept.png)
+
 ## Idée de projet
 
 Pour notre projet, nous allons avoir besoin d'un espace renfermé, que ce soit le petit studio ou un bout du grand studio, originalement nous prévoyons faire quelque chose impliquant un jeu, mais je pense qu'avec où la classe s'en va avec le thème, je pense que faire quelque chose de plus contemplatif serai à notre avantage.
