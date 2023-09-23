@@ -59,4 +59,11 @@ Pour notre projet, nous allons avoir besoin d'un espace renfermé, que ce soit l
 Il y aurait 3 projecteurs présents, chacun affichant quelqu-chose sur un mur.
 
 ![Projet angle 1](./media/projet_angle1.png)
+###### Vue de haut
 ![Projet angle 2](./media/projet_angle2.png)
+###### Vue de face
+<br>
+Lorsque personne n'est dans la salle, tout les projecteurs seronts éteints
+
+![Projet absence](./media/projet_absence.png)
+###### Absence d'intéracteurs
