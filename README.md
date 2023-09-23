@@ -56,6 +56,6 @@ Pour le plateau de la reactable, on prévois utiliser deux couches d'acrylique a
 
 Pour notre projet, nous allons avoir besoin d'un espace renfermé, que ce soit le petit studio ou un bout du grand studio, originalement nous prévoyons faire quelque chose impliquant un jeu, mais je pense qu'avec où la classe s'en va avec le thème, je pense que faire quelque chose de plus contemplatif serai à notre avantage. Ce que je veux faire, c'est avoir une salle avec la reactable au centre, et avoir une projection sur les murs, cette projection changerai dépendement de ce qui est présent sur la table. Des hauts-parleurs seraient présents dans la table pour de la spatialisation 3D. Les effets sur les murs pourraients être similair à ce qu'on peut trouver dans le jeu Tetris effect.
 <a href="https://www.youtube.com/watch?v=urbLIyd-VsQ&ab_channel=NickRobinson
-" target="_blank"><img src="https://i.ytimg.com/vi/urbLIyd-VsQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCQmBDxyjiBXQbFUE9M0Zoq-M68TA
+" target="_blank"><img src="![image](https://github.com/externalsip/rechercheProjetFinalRepo/assets/93773873/61969b5a-1aff-4576-b427-34b74613c022)
 " 
 alt="Tetris Effect Vid" /></a>
