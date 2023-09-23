@@ -24,7 +24,7 @@ D'après Lora il serait possible de faire un jeu avec unity qui se contrôle en 
 ###### Reactable en action.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0h-RhyopUmc
 " target="_blank"><img src="http://img.youtube.com/vi/0h-RhyopUmc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" /></a>
+alt="Reactable Vid" /></a>
 ###### Reactable legacy sur youtube, https://www.youtube.com/@reactable
 
 ## Programme derrière la reactable
@@ -50,6 +50,12 @@ Pour le plateau de la reactable, on prévois utiliser deux couches d'acrylique a
 
 ![Concept reactable](./media/table_concept.png)
 
+![Concept reactable intérieur](./media/table_concept_int.png)
+
 ## Idée de projet
 
-Pour notre projet, nous allons avoir besoin d'un espace renfermé, que ce soit le petit studio ou un bout du grand studio, originalement nous prévoyons faire quelque chose impliquant un jeu, mais je pense qu'avec où la classe s'en va avec le thème, je pense que faire quelque chose de plus contemplatif serai à notre avantage.
+Pour notre projet, nous allons avoir besoin d'un espace renfermé, que ce soit le petit studio ou un bout du grand studio, originalement nous prévoyons faire quelque chose impliquant un jeu, mais je pense qu'avec où la classe s'en va avec le thème, je pense que faire quelque chose de plus contemplatif serai à notre avantage. Ce que je veux faire, c'est avoir une salle avec la reactable au centre, et avoir une projection sur les murs, cette projection changerai dépendement de ce qui est présent sur la table. Des hauts-parleurs seraient présents dans la table pour de la spatialisation 3D. Les effets sur les murs pourraients être similair à ce qu'on peut trouver dans le jeu Tetris effect.
+<a href="https://www.youtube.com/watch?v=urbLIyd-VsQ&ab_channel=NickRobinson
+" target="_blank"><img src="https://i.ytimg.com/vi/urbLIyd-VsQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCQmBDxyjiBXQbFUE9M0Zoq-M68TA
+" 
+alt="Tetris Effect Vid" /></a>
